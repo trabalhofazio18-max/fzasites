@@ -583,7 +583,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   width: 56px; height: 56px; border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
   background: var(--secundaria); color: var(--primaria);
-  border: var(--borda); box-shadow: 3px 3px 0 var(--fundo);
+  border: var(--borda); box-shadow: 3px 3px 0 var(--primaria);
   transition: transform .15s ease;
 }
 .whatsapp-flutuante:hover { transform: translateY(-2px); }
