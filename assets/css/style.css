@@ -524,7 +524,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 }
 .contato-texto { max-width: 620px; font-size: var(--fonte-md); color: var(--texto-sobre-escuro); }
 @media (min-width: 1024px) { .contato-texto { font-size: 20px; } }
-.contato-info { display: flex; flex-direction: column; gap: var(--esp-1); font-family: var(--fonte-mono); font-size: var(--fonte-xs); color: var(--texto-sobre-escuro); }
+.contato-info { display: flex; flex-direction: column; gap: var(--esp-2); font-family: var(--fonte-mono); font-size: var(--fonte-xs); color: var(--texto-sobre-escuro); }
 .contato-info li { display: flex; align-items: center; gap: 10px; }
 .contato-icone { width: 18px; height: 18px; flex: none; color: var(--secundaria); }
 .contato-info a { color: inherit; text-underline-offset: 3px; }
