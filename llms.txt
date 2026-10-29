@@ -1,12 +1,12 @@
 # FZA
 
-> A FZA é uma empresa de criação de sites profissionais, de Henrique Fazio (CNPJ 64.291.919/0001-64). Faz sites rápidos, bonitos no celular e preparados para o Google, com o WhatsApp sempre a um toque. Site de uma página a partir de R$ 997, no ar em 3 dias úteis depois de receber as informações do cliente. Atendimento online em todo o Brasil.
+> A FZA é uma empresa de criação de sites profissionais, de Henrique Fazio (CNPJ 64.291.919/0001-64). Faz sites rápidos, bonitos no celular e preparados para o Google, com o WhatsApp sempre a um toque. Site de uma página a partir de R$ 997, no ar em até 7 dias depois de receber as informações do cliente. Atendimento online em todo o Brasil.
 
 Domínio: https://fzasites.com.br/
 
 ## Serviços
 
-- [Site de uma página](https://fzasites.com.br/#site-de-uma-pagina): uma página com serviços, sobre, dúvidas e contato, feita primeiro para o celular e com SEO para ser encontrado na cidade do cliente. A partir de R$ 997. No ar em 3 dias úteis.
+- [Site de uma página](https://fzasites.com.br/#site-de-uma-pagina): uma página com serviços, sobre, dúvidas e contato, feita primeiro para o celular e com SEO para ser encontrado na cidade do cliente. A partir de R$ 997. No ar em até 7 dias.
 - [Site completo](https://fzasites.com.br/#site-completo): páginas separadas para cada serviço ou coleção, catálogo com pedido pelo WhatsApp e SEO feito página por página. Sob orçamento.
 - [Adicionais](https://fzasites.com.br/#adicionais): perfil da empresa no Google, textos escritos pelo Henrique, fotos de produtos tratadas e manutenção mensal.
 
