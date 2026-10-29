@@ -212,8 +212,19 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .menu-mobile-painel .btn { margin-top: var(--esp-2); }
 
 @media (min-width: 1024px) {
-  .menu-desktop { display: flex; align-items: center; gap: 28px; }
+  /* Links no meio do espaço entre a logo e o botão */
+  .menu-desktop { flex: 1; display: flex; align-items: center; gap: 32px; }
+  .menu-desktop a:not(.btn):first-child, .menu-desktop .btn { margin-left: auto; }
   .menu-mobile { display: none; }
+
+  /* Hover: linha coral que cresce do centro embaixo do link */
+  .menu-desktop a:not(.btn) { position: relative; }
+  .menu-desktop a:not(.btn)::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: 8px; height: 2px;
+    background: var(--secundaria); border-radius: 2px;
+    transform: scaleX(0); transition: transform .2s ease;
+  }
+  .menu-desktop a:not(.btn):hover::after, .menu-desktop a:not(.btn):focus-visible::after { transform: scaleX(1); }
 }
 
 /* ---------- Topo (hero) ---------- */
